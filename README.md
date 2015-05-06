@@ -4,6 +4,9 @@
 
 Because [my blog](http://mildronize.github.io) have used icon set from [Font Awesome](fontawesome.io). I change icon set from the [original project](#original-project-documentation) into [Font Awesome](fontawesome.io) as in [my blog](http://mildronize.github.io).
 
+## Screenshot
+![](screenshot.jpg)
+
 ## Usage
 
 1. copy all of project's resource to your project.
