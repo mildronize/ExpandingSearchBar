@@ -7,6 +7,10 @@ Because [my blog](http://mildronize.github.io) have used icon set from [Font Awe
 ## Screenshot
 ![](screenshot.jpg)
 
+## Demo
+
+<http://mildronize.github.io/demo/responsive-expanding-search-bar/>
+
 ## Usage
 
 1. copy all of project's resource to your project.
