@@ -1,6 +1,6 @@
-# Expanding Search Bar Deconstructed
+# Expanding Search Bar
 
-**Expanding Search Bar Deconstructed** is an expanding search bar extension for any HTML page or Jekyll. This extension is a lightweight version of [Expanding Search Bar Deconstructed](http://tympanus.net/Tutorials/ExpandingSearchBar/) for using  in Jekyll or HTML. This extension is used in [my blog](http://mildronize.github.io).
+**Expanding Search Bar** is an expanding search bar extension for any HTML page or Jekyll. This extension is a lightweight version of [Expanding Search Bar Deconstructed](http://tympanus.net/Tutorials/ExpandingSearchBar/) for using  in Jekyll or HTML. This extension is used in [my blog](http://mildronize.github.io).
 
 Because [my blog](http://mildronize.github.io) have used icon set from [Font Awesome](fontawesome.io). I change icon set from the [original project](#original-project-documentation) into [Font Awesome](fontawesome.io) as in [my blog](http://mildronize.github.io).
 
