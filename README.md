@@ -7,9 +7,9 @@ Because [my blog](http://mildronize.github.io) have used icon set from [Font Awe
 ## Screenshot
 ![](screenshot.jpg)
 
-## Demo
-
-<http://mildronize.github.io/demo/responsive-expanding-search-bar/>
+## Home & Demo
+- Home: <http://mildronize.github.io/articles/2015/05/07/responsive-expanding-search-bar/>
+- Demo: <http://mildronize.github.io/demo/responsive-expanding-search-bar/>
 
 ## Usage
 
