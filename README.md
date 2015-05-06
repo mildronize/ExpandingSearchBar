@@ -8,39 +8,39 @@ Because [my blog](http://mildronize.github.io) have used icon set from [Font Awe
 
 1. copy all of project's resource to your project.
 
-```
-/css
-/fonts
-/js
-```
+  ```
+  /css
+  /fonts
+  /js
+  ```
 
 2. Insert css header into your HTML
 
-```html
-<link rel="stylesheet" type="text/css" href="css/font-awesome-4.3.0.min.css" />
-<link rel="stylesheet" type="text/css" href="css/expanding-search-bar.css" />
-```
+  ```html
+  <link rel="stylesheet" type="text/css" href="css/font-awesome-4.3.0.min.css" />
+  <link rel="stylesheet" type="text/css" href="css/expanding-search-bar.css" />
+  ```
 
 3. Place below code into top of HTML code or anywhere what you want.
 
-```html
-<div id="sb-search" class="sb-search">
-    <form>
-        <input class="sb-search-input search-bar" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
-        <input class="sb-search-submit" type="submit" value="">
-        <span class="fa fa-search sb-icon-search"></span>
-    </form>
-</div>
-```
+  ```html
+  <div id="sb-search" class="sb-search">
+      <form>
+          <input class="sb-search-input search-bar" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
+          <input class="sb-search-submit" type="submit" value="">
+          <span class="fa fa-search sb-icon-search"></span>
+      </form>
+  </div>
+  ```
 
 4. Add JS at bottom of HTML code
-```html
-<script src="js/classie.js"></script>
-<script src="js/uisearch.js"></script>
-<script>
-    new UISearch( document.getElementById( 'sb-search' ) );
-</script>
-```
+  ```html
+  <script src="js/classie.js"></script>
+  <script src="js/uisearch.js"></script>
+  <script>
+      new UISearch( document.getElementById( 'sb-search' ) );
+  </script>
+  ```
 
 ## Original project documentation
 A tutorial on how to create a mobile-friendly and responsive expanding search bar.
